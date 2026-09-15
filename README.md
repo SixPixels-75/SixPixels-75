@@ -68,9 +68,7 @@ We don't just prototype — we design, build, and ship.
 
 - **[FetchFood Marketplace Platform](https://food-delivery-app-mern-yski.vercel.app)** — Multi-sided MERN food delivery app with real-time Socket.io order tracking.
 
-- **Hospital Registry Web Application** — React + Tailwind CSS frontend for hospital registration and patient management. *(link coming soon)*
 
-- **Docker Containerization Deep-Dive** — Technical presentation on Docker's architecture and enterprise containerization benefits. *(link coming soon)*
 
 - **[PromoTrack – Activation Management Portal](https://pms1-silk.vercel.app/)** — Full-stack MERN portal for an international client, with 6+ modules and a 15+ endpoint REST API.
 
@@ -78,7 +76,6 @@ We don't just prototype — we design, build, and ship.
 
 - **[AI Job Impact Analyzer](https://ai-job-impact-analyzer.streamlit.app/)** — Python analysis of 1,000+ job-market records with EDA, cleaning, and predictive classification models.
 
-- **Online Voting System** — Console-based C++ app applying core OOP principles for secure, one-person-one-vote election logic.
 
 ---
 
