@@ -4,7 +4,7 @@
 
 # SixPixels
 
-*A multi-disciplinary tech team turning client ideas into finished products — web, mobile, software, AI, and design, end to end.*
+*A multi-disciplinary tech team turning client ideas into finished products web, mobile, software, AI, and design, end to end.*
 
 <br/>
 
@@ -18,9 +18,9 @@
 
 ## Who We Are
 
-SixPixels is a multi-disciplinary tech team that turns client ideas into finished, working products. Clients bring the concept — we handle the strategy, architecture, design, and delivery. Our work spans full-stack web platforms, mobile and desktop apps, machine learning tools, and system-level projects, backed by strong fundamentals in databases, networking, and security.
+SixPixels is a multi-disciplinary tech team that turns client ideas into finished, working products. Clients bring the concept  we handle the strategy, architecture, design, and delivery. Our work spans full-stack web platforms, mobile and desktop apps, machine learning tools, and system-level projects, backed by strong fundamentals in databases, networking, and security.
 
-We don't just prototype — we design, build, and ship.
+We don't just prototype we design, build, and ship.
 
 ---
 
