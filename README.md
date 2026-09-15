@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:0d0d0d&height=200&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" />
 
 # SixPixels
 
@@ -9,7 +9,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MuhammadHamza-7035)
-[![Email](https://img.shields.io/badge/-Contact%20Us-000000?style=flat&logo=maildotru&logoColor=white)](mailto:contact@sixpixels.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/six-pixel-6a5026437/)
+[![Email](https://img.shields.io/badge/-Contact%20Us-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@sixpixels.dev)
 
 ---
 
@@ -17,25 +18,25 @@
 
 ## Who We Are
 
-SixPixels is a small, focused team that takes an idea and delivers a working product. Clients bring the concept — we handle the architecture, the build, and the polish. Our work spans full-stack web platforms, machine learning tools, desktop applications, and system-level projects, with an emphasis on clean engineering and reliable delivery.
+SixPixels is a multi-disciplinary tech team that turns client ideas into finished, working products. Clients bring the concept — we handle the strategy, architecture, design, and delivery. Our work spans full-stack web platforms, mobile and desktop apps, machine learning tools, and system-level projects, backed by strong fundamentals in databases, networking, and security.
 
-We don't just prototype — we ship.
+We don't just prototype — we design, build, and ship.
 
 ---
 
 ## What We Do
 
-![Web Development](https://img.shields.io/badge/-Web%20Development-1a1a1a?style=flat)
-![Game Development](https://img.shields.io/badge/-Game%20Development-1a1a1a?style=flat)
-![App Development](https://img.shields.io/badge/-App%20Development-1a1a1a?style=flat)
-![Software Development](https://img.shields.io/badge/-Software%20Development-1a1a1a?style=flat)
-![Graphic Designing](https://img.shields.io/badge/-Graphic%20Designing-1a1a1a?style=flat)
-![Animation](https://img.shields.io/badge/-Animation-1a1a1a?style=flat)
-![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-1a1a1a?style=flat)
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-1a1a1a?style=flat)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-1a1a1a?style=flat)
-![Database](https://img.shields.io/badge/-Database%20Systems-1a1a1a?style=flat)
-![Networking](https://img.shields.io/badge/-Networking-1a1a1a?style=flat)
+![Web Development](https://img.shields.io/badge/-Web%20Development-FF6B6B?style=for-the-badge)
+![Game Development](https://img.shields.io/badge/-Game%20Development-FFA94D?style=for-the-badge)
+![App Development](https://img.shields.io/badge/-App%20Development-FFD43B?style=for-the-badge&logoColor=black)
+![Software Development](https://img.shields.io/badge/-Software%20Development-69DB7C?style=for-the-badge)
+![Graphic Designing](https://img.shields.io/badge/-Graphic%20Designing-3BC9DB?style=for-the-badge)
+![Animation](https://img.shields.io/badge/-Animation-4DABF7?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-748FFC?style=for-the-badge)
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-9775FA?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-DA77F2?style=for-the-badge)
+![Database](https://img.shields.io/badge/-Database%20Systems-F783AC?style=for-the-badge)
+![Networking](https://img.shields.io/badge/-Networking-FF8787?style=for-the-badge)
 
 ---
 
@@ -61,15 +62,23 @@ We don't just prototype — we ship.
 
 ## Projects
 
-- **[Gaming Benchmark Estimator](https://github.com/MuhammadHamza-7035/Gaming-Benchmark-Estimator)** — ML-based tool that predicts game FPS from PC hardware specs using Linear Regression, with EDA and visualizations in Pandas, Matplotlib, and Seaborn.
+- **[Gaming Benchmark Estimator](https://github.com/MuhammadHamza-7035/Gaming-Benchmark-Estimator)** — ML tool predicting game FPS from hardware specs using Linear Regression, with full EDA and visualizations.
 
-- **[Artistic Music Player](https://github.com/MuhammadHamza-7035/Artistic-Music-Player)** — A JavaFX desktop music player with a Spotify-inspired UI, MySQL-backed song library, album art support, and full playback controls.
+- **[Artistic Music Player](https://github.com/MuhammadHamza-7035/Artistic-Music-Player)** — JavaFX desktop music player with a Spotify-inspired UI, MySQL-backed library, and album art support.
 
-- **[FetchFood Marketplace Platform](https://food-delivery-app-mern-yski.vercel.app)** — A multi-sided MERN food delivery app with real-time Socket.io order tracking and custom backend schemas.
+- **[FetchFood Marketplace Platform](https://food-delivery-app-mern-yski.vercel.app)** — Multi-sided MERN food delivery app with real-time Socket.io order tracking.
 
-- **Hospital Registry Web Application** — A React + Tailwind CSS frontend for hospital registration and patient management.
+- **Hospital Registry Web Application** — React + Tailwind CSS frontend for hospital registration and patient management. *(link coming soon)*
 
-- **Docker Containerization Deep-Dive** — A technical presentation covering Docker's architecture and the benefits of enterprise containerization.
+- **Docker Containerization Deep-Dive** — Technical presentation on Docker's architecture and enterprise containerization benefits. *(link coming soon)*
+
+- **[PromoTrack – Activation Management Portal](https://pms1-silk.vercel.app/)** — Full-stack MERN portal for an international client, with 6+ modules and a 15+ endpoint REST API.
+
+- **[SmartMap AI – Map Application](https://smartmap-ai-eight.vercel.app/)** — Interactive map web app with real-time data rendering, backed by a MongoDB + Express + Node API.
+
+- **[AI Job Impact Analyzer](https://ai-job-impact-analyzer.streamlit.app/)** — Python analysis of 1,000+ job-market records with EDA, cleaning, and predictive classification models.
+
+- **Online Voting System** — Console-based C++ app applying core OOP principles for secure, one-person-one-vote election logic.
 
 ---
 
@@ -77,6 +86,6 @@ We don't just prototype — we ship.
 
 **Have an idea?** We'll build it.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:0d0d0d&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
