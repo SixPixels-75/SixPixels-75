@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:0d0d0d&height=200&section=header" />
 
 # SixPixels
 
@@ -9,7 +9,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MuhammadHamza-7035)
-[![Email](https://img.shields.io/badge/-Contact%20Us-0f2027?style=flat&logo=maildotru&logoColor=white)](mailto:contact@sixpixels.dev)
+[![Email](https://img.shields.io/badge/-Contact%20Us-000000?style=flat&logo=maildotru&logoColor=white)](mailto:contact@sixpixels.dev)
 
 ---
 
@@ -25,17 +25,17 @@ We don't just prototype — we ship.
 
 ## What We Do
 
-![Web Development](https://img.shields.io/badge/-Web%20Development-2c5364?style=flat)
-![Game Development](https://img.shields.io/badge/-Game%20Development-2c5364?style=flat)
-![App Development](https://img.shields.io/badge/-App%20Development-2c5364?style=flat)
-![Software Development](https://img.shields.io/badge/-Software%20Development-2c5364?style=flat)
-![Graphic Designing](https://img.shields.io/badge/-Graphic%20Designing-2c5364?style=flat)
-![Animation](https://img.shields.io/badge/-Animation-2c5364?style=flat)
-![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-2c5364?style=flat)
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-2c5364?style=flat)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-2c5364?style=flat)
-![Database](https://img.shields.io/badge/-Database%20Systems-2c5364?style=flat)
-![Networking](https://img.shields.io/badge/-Networking-2c5364?style=flat)
+![Web Development](https://img.shields.io/badge/-Web%20Development-1a1a1a?style=flat)
+![Game Development](https://img.shields.io/badge/-Game%20Development-1a1a1a?style=flat)
+![App Development](https://img.shields.io/badge/-App%20Development-1a1a1a?style=flat)
+![Software Development](https://img.shields.io/badge/-Software%20Development-1a1a1a?style=flat)
+![Graphic Designing](https://img.shields.io/badge/-Graphic%20Designing-1a1a1a?style=flat)
+![Animation](https://img.shields.io/badge/-Animation-1a1a1a?style=flat)
+![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-1a1a1a?style=flat)
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-1a1a1a?style=flat)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-1a1a1a?style=flat)
+![Database](https://img.shields.io/badge/-Database%20Systems-1a1a1a?style=flat)
+![Networking](https://img.shields.io/badge/-Networking-1a1a1a?style=flat)
 
 ---
 
@@ -77,6 +77,6 @@ We don't just prototype — we ship.
 
 **Have an idea?** We'll build it.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:0d0d0d&height=100&section=footer" />
 
 </div>
